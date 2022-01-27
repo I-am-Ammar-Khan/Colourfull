@@ -1,0 +1,65 @@
+{
+    "name": "colourfull",
+    "displayName": "Colourfull",
+    "publisher": "Ammar-Khan",
+    "description": "Enjoy!",
+    "icon": "ico.png",
+    "version": "0.1.0",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "keywords": [
+        "themes",
+        "Ammar",
+        "ammar",
+        "popup themes",
+        "Ammar Khan"
+    ],
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Colourfull - black",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Colourfull-black.json"
+            },
+            {
+                "label": "Colourfull - Red",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Colourfull-red.json"
+            },
+            {
+                "label": "Colourfull - gray",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Colourfull-gray.json"
+            },
+            {
+                "label": "Colourfull - Blue",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Colourfull-blue.json"
+            },
+            {
+                "label": "Colourfull - Purple",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Colourfull-purple.json"
+            },
+            {
+                "label": "Colourfull - Pink",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Colourfull-pink.json"
+            },
+            {
+                "label": "Colourfull - Orange",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Colourfull-orange.json"
+            },
+            {
+                "label": "Colourfull - Green",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Colourfull-green.json"
+            }
+        ]
+    }
+}
