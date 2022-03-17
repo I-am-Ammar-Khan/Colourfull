@@ -21,14 +21,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "Colourfull - black",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Colourfull-black.json"
-            },
-            {
                 "label": "Colourfull - Red",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Colourfull-red.json"
+            },
+            {
+                "label": "Colourfull - black",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Colourfull-blackd.json"
             },
             {
                 "label": "Colourfull - gray",
@@ -44,21 +44,11 @@
                 "label": "Colourfull - Purple",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Colourfull-purple.json"
-            },
+            }   ,
             {
                 "label": "Colourfull - Pink",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Colourfull-pink.json"
-            },
-            {
-                "label": "Colourfull - Orange",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Colourfull-orange.json"
-            },
-            {
-                "label": "Colourfull - Green",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Colourfull-green.json"
             }
         ]
     }
