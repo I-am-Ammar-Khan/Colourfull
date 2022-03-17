@@ -3,22 +3,22 @@
 ## This is a Good coloutfull theme 
 ## Colourfull - BLACK
 ---
-![BLACK](https/black.png)
+![BLACK](/black.png)
 ## Colourfull - RED
 ---
-![RED](https/red.png)
+![RED](/red.png)
 ## Colourfull - BLUE
 ---
-![BLUE](https/blue.png)
+![BLUE](/blue.png)
 ## Colourfull - GRAY
 ---
-![GRAY](https/gray.png)
+![GRAY](/gray.png)
 ## Colourfull - PINK
 ---
-![PINK](https/pink.png)
+![PINK](/pink.png)
 ## Colourfull - PURPLE
 ---
-![PURPLE](https/purple.png)
+![PURPLE](/purple.png)
 
 
 **Enjoy my theme**
