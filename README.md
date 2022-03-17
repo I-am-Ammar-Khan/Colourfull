@@ -3,8 +3,9 @@
 ## This is a Good coloutfull theme 
 ## Colourfull - BLACK
 ---
-![BLACK](/black.png)
+<!-- ![BLACK](/black.png)
 ## Colourfull - RED
+
 ---
 ![RED](/red.png)
 ## Colourfull - BLUE
@@ -18,7 +19,7 @@
 ![PINK](/pink.png)
 ## Colourfull - PURPLE
 ---
-![PURPLE](/purple.png)
+![PURPLE](/purple.png) -->
 
 
 **Enjoy my theme**
