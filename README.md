@@ -1,18 +1,27 @@
 # Colourfull
      
-## This is a Good coloutfull theme 
-## Colourfull - BLACK
----
+## This is a Good coloutfull theme
+--- 
+### Colourfull - BLACK
 ![black](images/black.png)
 
+---
+### Colourfull - BLUE
 ![blue](images/blue.png)
 
+---
+### Colourfull - PINK
+![pink](images/pink.png)
+
+---
+### Colourfull - GRAY
 ![gray](images/gray.png)
 
-![black](images/purple.png)
-
-![black](images/pink.png)
-
-
-**Enjoy my theme**
 ---
+### Colourfull - PURPLE
+![purple](images/purple.png)
+
+
+
+---
+**Enjoy my theme**
