@@ -14,7 +14,8 @@
     },
     "repository": {
         "type": "git",
-        "directory": "https://github.com/I-am-Ammar-Khan/Colourfull"
+        "directory": "Colourfull",
+        "url": "https://github.com/I-am-Ammar-Khan/Colourfull"
     },
     "keywords": [
         "monokai",
