@@ -33,7 +33,7 @@
             {
                 "label": "Colourfull - black",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Colourfull-blackd.json"
+                "path": "./themes/Colourfull-black.json"
             },
             {
                 "label": "Colourfull - gray",
