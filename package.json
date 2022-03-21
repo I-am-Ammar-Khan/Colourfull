@@ -12,6 +12,10 @@
     "engines": {
         "vscode": "^1.63.0"
     },
+    "repository": {
+        "type": "git",
+        "directory": "https://github.com/I-am-Ammar-Khan/Colourfull"
+    },
     "keywords": [
         "monokai",
         "Super dark",
