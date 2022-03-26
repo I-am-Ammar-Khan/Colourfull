@@ -10,12 +10,21 @@
 ![blue](images/blue.png)
 
 ---
+### Colourfull - RED
+![Red](images/red.png)
+
+---
 ### Colourfull - PINK
 ![pink](images/pink.png)
 
 ---
-### Colourfull - GRAY
-![gray](images/gray.png)
+### Colourfull - Green
+![Green](images/green.png)
+
+---
+### Colourfull - Orange
+![Orang](images/orange.png)
+
 
 ---
 ### Colourfull - PURPLE

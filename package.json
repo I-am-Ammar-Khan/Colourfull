@@ -19,8 +19,25 @@
     },
     "keywords": [
         "monokai",
+        "Color",
+        "Colour",
+        "Theme Pack",
+        "Creative",
         "Super dark",
         "themes",
+        "Shades of Rainbow",
+        "Rainbow",
+        "Shades of Purple",
+        "Purple",
+        "Shades of Blue",
+        "Blue",
+        "Shades of Green",
+        "Green",
+        "Shades of Orange",
+        "Orange",
+        "Shades of Red",
+        "Red",
+        "Shades of Black",
         "ammar",
         "Clean themes",
         "Ammar Khan"
@@ -31,29 +48,19 @@
     "contributes": {
         "themes": [
             {
-                "label": "Colourfull - Orange",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Colourfull-Orange.json"
-            },
-            {
-                "label": "Colourfull - Red",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Colourfull-red.json"
-            },
-            {
                 "label": "Colourfull - black",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Colourfull-black.json"
             },
             {
-                "label": "Colourfull - Green",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Colourfull-Green.json"
-            },
-            {
                 "label": "Colourfull - Blue",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Colourfull-blue.json"
+            },
+            {
+                "label": "Colourfull - Red",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Colourfull-red.json"
             },
             {
                 "label": "Colourfull - Purple",
@@ -64,6 +71,16 @@
                 "label": "Colourfull - Pink",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Colourfull-pink.json"
+            },
+            {
+                "label": "Colourfull - Orange",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Colourfull-Orange.json"
+            },
+            {
+                "label": "Colourfull - Green",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Colourfull-Green.json"
             }
         ]
     }

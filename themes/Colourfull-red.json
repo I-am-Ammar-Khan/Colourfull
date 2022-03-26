@@ -152,7 +152,7 @@
 
 		"icon.foreground": "#ffffff"
 	},
-	"tokenColors": [
+"tokenColors": [
 			{
 				"settings": {
 					"foreground": "#F8F8F2"

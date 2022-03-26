@@ -97,7 +97,6 @@
 		"list.activeSelectionBackground": "#00be20",
 		"list.dropBackground": "#a183d333",
 		"list.errorForeground": "#ca0d36",
-		"list.activeSelectionForeground": "#5efffc",
 		"list.hoverBackground": "#2c145f7a",
 		
 		"button.background": "#12122c",
@@ -178,7 +177,7 @@
 		  "name": "support.variable.magic.python",
 		  "scope": "support.variable.magic.python",
 		  "settings": {
-			"foreground": "#51f04c"
+			"foreground": "#fff"
 		  }
 		},
 		{
