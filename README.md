@@ -1,33 +1,33 @@
 # Colourfull
      
-## This is a Good coloutfull theme
+### This theme has a feel of Monokai and your favorite Colours like Red Green Blue Pink Purple Orange Black
 --- 
-### Colourfull - BLACK
+## Colourfull - BLACK
 ![black](images/black.png)
 
 ---
-### Colourfull - BLUE
+## Colourfull - BLUE
 ![blue](images/blue.png)
 
 ---
-### Colourfull - RED
+## Colourfull - RED
 ![Red](images/red.png)
 
 ---
-### Colourfull - PINK
+## Colourfull - PINK
 ![pink](images/pink.png)
 
 ---
-### Colourfull - Green
+## Colourfull - Green
 ![Green](images/green.png)
 
 ---
-### Colourfull - Orange
+## Colourfull - Orange
 ![Orang](images/orange.png)
 
 
 ---
-### Colourfull - PURPLE
+## Colourfull - PURPLE
 ![purple](images/purple.png)
 
 

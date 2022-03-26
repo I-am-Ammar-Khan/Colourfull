@@ -76,9 +76,9 @@
 		"input.foreground": "#ffffff",
 		"input.placeholderForeground": "#7d7d7dd0",
 		
-		"panelTitle.activeBorder": "#ff4747",
+		"panelTitle.activeBorder": "#00be20",
 		"panel.background": "#000000",
-		"panel.border": "#ff4747",
+		"panel.border": "#00be20",
 		"panelSection.dropBackground": "#310303",
 		"panelTitle.activeForeground": "#ffffff",
 		
@@ -439,14 +439,14 @@
 		  "name": "css comma",
 		  "scope": "punctuation.separator.list.comma.css",
 		  "settings": {
-			"foreground": "#b8c9b6"
+			"foreground": "#B8C9B6"
 		  }
 		},
 		{
 		  "name": "css attribute-name.id",
 		  "scope": "support.constant.color.w3c-standard-color-name.css",
 		  "settings": {
-			"foreground": "#ff533c"
+			"foreground": "#e70060"
 		  }
 		},
 		{
