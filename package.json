@@ -4,7 +4,7 @@
     "publisher": "Ammar-Khan",
     "description": "This theme has a feel of Monokai and your favorite Colours like Red Green Blue Pink Purple Orange Black",
     "icon": "ico.png",
-    "version": "1.3.0",
+    "version": "1.4.0",
     "author": {
         "name": "Ammar Khan",
         "email": "ammarkhan101101@gmail.com"
@@ -18,18 +18,29 @@
         "url": "https://github.com/I-am-Ammar-Khan/Colourfull"
     },
     "keywords": [
-        "monokai","Color",
-        "Colour","Theme Pack",
-        "Creative","Super dark",
+        "monokai",
+        "Color",
+        "Colour",
+        "Theme Pack",
+        "Creative",
+        "Super dark",
         "Clean themes",
-        "Ammar Khan","themes",
-        "Shades of Rainbow","Rainbow",
-        "Shades of Purple","Purple",
-        "Shades of Blue","Blue",
-        "Shades of Green","Green",
-        "Shades of Orange","Orange",
-        "Shades of Red","Red",
-        "Shades of Black","ammar"
+        "Ammar Khan",
+        "themes",
+        "Shades of Rainbow",
+        "Rainbow",
+        "Shades of Purple",
+        "Purple",
+        "Shades of Blue",
+        "Blue",
+        "Shades of Green",
+        "Green",
+        "Shades of Orange",
+        "Orange",
+        "Shades of Red",
+        "Red",
+        "Shades of Black",
+        "ammar"
     ],
     "categories": [
         "Themes"
