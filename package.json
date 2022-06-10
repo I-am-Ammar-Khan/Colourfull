@@ -48,11 +48,6 @@
     "contributes": {
         "themes": [
             {
-                "label": "Colourfull - Yellow",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Colourfull-Yellow.json"
-            },
-            {
                 "label": "Colourfull - black",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Colourfull-black.json"
@@ -71,6 +66,11 @@
                 "label": "Colourfull - Purple",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Colourfull-purple.json"
+            },
+            {
+                "label": "Colourfull - Yellow",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Colourfull-Yellow.json"
             },
             {
                 "label": "Colourfull - Pink",
